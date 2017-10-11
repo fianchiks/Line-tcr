@@ -125,7 +125,7 @@ sider = {
     }
 
 setTime = {}
-setTime = wait2['setTime']
+setTime = sider['setTime']
 
 
 def sendMessage(to, text, contentMetadata={}, contentType=0):
